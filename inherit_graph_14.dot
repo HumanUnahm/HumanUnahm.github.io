@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PacketSerial_\< EncoderType,\l PacketMarker, BufferSize \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPacketSerial__.html",tooltip="A template class enabling packet-based Serial communication. "];
+}
